@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/tenban/shadowrocket-rules/main/hypic.conf
